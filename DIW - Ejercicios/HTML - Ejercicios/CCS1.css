@@ -1,0 +1,32 @@
+body {
+    /*Para todos los elementos dentro de la etiqueta <body> */
+    background-color: olive;
+    color: white;
+
+}
+
+img{
+    max-width:100%;
+    vertical-align:top;
+  
+ }
+nav li{
+    list-style:none;
+   display:inline-block;
+   padding:4px 70px;
+   text-align:center;
+   background-color:gray
+}
+
+.botones{   
+    /*Para los elementos que tengan las class="botones" */
+
+}
+
+
+#botones{  
+    /*Para los elementos que tengan el id="botones" 
+    NO SE RECOMIENDAN
+    Mejor usar seletores de clase Ej: .botones */
+
+}
