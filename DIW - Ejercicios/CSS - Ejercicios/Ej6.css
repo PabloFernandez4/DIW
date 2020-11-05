@@ -1,0 +1,16 @@
+ div#menu {
+    background: rgb(194, 194, 194);
+    border: 2px solid rgb(90, 90, 90);
+    padding: 1em;
+}
+.anterior  {
+    float: left;
+}
+.siguiente {
+    float: right;
+}
+
+div.clear {
+    clear: both;
+    border: 2px solid ;
+} 
