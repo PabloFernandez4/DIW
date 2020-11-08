@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+#contenedor{
+    width:100%;
+    max-width:1300px;
+    margin:auto;
+}
+section{
+    border:1px solid #000;
+    height:200px;
+    float:left;
+}
+.caja-1{background-color:red;}
+.caja-2{background-color:green;}
+.caja-3{background-color:blue;}
+.caja-4{
+    background-color:black;
+    width:100%;	
+}
+.caja-5{background-color:pink;}
+.caja-6{background-color:orange;}
+
+.caja-1, .caja-2, .caja-3{width:33.33%;}
+.caja-5, .caja-6{width:50%;}
